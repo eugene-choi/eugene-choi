@@ -1,6 +1,8 @@
 # Hi there. I'm [Eugene Choi](https://eugene-choi.github.io/) 👋
 
-- I am currently a research assistant at the [NYU Machine Learning for Language (ML²) group](https://wp.nyu.edu/ml2/), where I work on machine learning and natural language processing research.
+
+- I am currently working as a natural language processing (NLP) research engineer at [Reality Defender](https://realitydefender.com/), where I focus on developing accurate and robust systems for detecting model-generated text.
+- I am also a member of the [NYU Machine Learning for Language (ML²) group](https://wp.nyu.edu/ml2/), where I work on machine learning and natural language processing research.
 - I graduated from the Courant Institute of Mathematical Sciences at New York University with both my Bachelor's and Master's degrees in Computer Science.
 
 ### How to Get in Touch
